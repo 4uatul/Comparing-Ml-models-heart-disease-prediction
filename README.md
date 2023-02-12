@@ -12,7 +12,9 @@ I compared six different machine learning models for predicting heart disease:
 - Logistic Regression
 - Decision Tree
 - Random Forest
-- Support Vector Machines (SVM)
+- Support Vector Machines (SVM) 
+
+
 I trained and evaluated each model using the same dataset and the same evaluation metric, accuracy.
 
 ## Results
